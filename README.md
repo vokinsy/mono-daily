@@ -1,6 +1,6 @@
 # mono-daily
 A streamlined PWA for tracking daily habits, focus sessions, and vitals.
-# Dayflow (我的日常)
+# mono-daily
 
 一个兼顾现代极简审美与神经多样性（Neurodiversity）亲和力的渐进式 Web 应用（PWA）。旨在通过低摩擦、即时反馈的交互设计，减少日常任务启动的认知负荷。
 
