@@ -1,0 +1,21 @@
+{
+  "name": "我的日常",
+  "short_name": "我的日常",
+  "description": "极简、干净的日常行为与专注管理工具",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F7F8",
+  "theme-color": "#3B82F6",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
